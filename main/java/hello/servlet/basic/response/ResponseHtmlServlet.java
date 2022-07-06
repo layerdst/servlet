@@ -24,7 +24,7 @@ public class ResponseHtmlServlet extends HttpServlet {
         writer.println(" 안녕 ");
         writer.println("</div>");
         writer.println("</body>");
-         writer.println("</html>");
+        writer.println("</html>");
 
 
     }
